@@ -103,3 +103,15 @@ margin-bottom:0.937em ;
    grid-gap:1.5625em 0;
 
 }
+
+.arrival_depot  .total_arrival .b_arrival{
+ width: 11em;
+    height: 20em;
+    text-align: center;
+    padding: 2em;
+    border: 0.125em solid;
+    border-color: #aea5a5;
+    margin: auto 0.5em ; 
+  
+    
+}

@@ -4,6 +4,13 @@ body{
     background-color:#fff;
   
 }
+/*home */
+section{
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
 /*featured*/
 #Fbody h1{
     justify-content: center;

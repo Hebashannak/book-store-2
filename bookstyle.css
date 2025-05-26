@@ -33,7 +33,10 @@ width: 6.25em;
 section nav .line-links ul{
   list-style: none;
 }
-
+section nav .line-links ul li{
+  display:inline-block;
+  padding: ;
+}
 
 /*featured*/
 #Fbody h1{

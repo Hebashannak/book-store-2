@@ -12,3 +12,21 @@ body{
  
     
 }
+
+#total_Featured{
+    padding-top: 0.625em;
+    height: 12.5em;
+    width: 100%;
+    padding-bottom: 8em;
+
+
+}
+#Fbody #total_Featured{
+    width: 96%;
+    margin: 0 auto;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: repeat(15,1fr);
+    overflow: hidden;
+    overflow-x:scroll;
+}

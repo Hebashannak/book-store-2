@@ -30,6 +30,9 @@ margin: 0.5em 0;
 cursor:pointer;
 width: 6.25em;
 }
+section nav .line-links ul{
+  list-style: none;
+}
 
 
 /*featured*/

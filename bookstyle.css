@@ -101,6 +101,12 @@ section #mmsection #heder-ima{
   top:4em ;
   left: 1.2em;
 }
+#line-mark{
+  width: 100%;
+  height: auto;
+  margin: 2em  0;
+}
+#line-mark
 /*featured*/
 #Fbody h1{
     justify-content: center;

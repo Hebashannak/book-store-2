@@ -78,6 +78,8 @@ section #mmsection #intro-text h1 span{
 }
 section #mmsection #intro-text p{
   width: 36em;
+  text-align: justify;
+  line-height: 1.25em;
 }
 /*featured*/
 #Fbody h1{

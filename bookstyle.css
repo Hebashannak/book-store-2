@@ -79,7 +79,7 @@ section #mmsection #intro-text h1 span{
 }
 section #mmsection  p{
   width: 36em;
-  top: 6.8em;
+  top: 0.5em;
   left: 1.5em;
   text-align: justify;
   line-height: 1.25em;
@@ -87,14 +87,20 @@ section #mmsection  p{
   
 }
 section #mmsection #intro-text #l-btn{
-background-color: #63bed5;
+background-color:#0e87a5 ;
 padding: 0.625em 1.25em;
 position: relative;
-top: 10em;
+top: 3.5em;
 left: 1.56em;
 color: #fff;
 text-decoration: none;
 
+}
+section #mmsection #heder-ima{
+  position: relative;
+  width: 40em;
+  top:4em ;
+  left: 1.2em;
 }
 /*featured*/
 #Fbody h1{

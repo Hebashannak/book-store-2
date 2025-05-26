@@ -76,7 +76,7 @@ section #mmsection #intro-text h1 span{
   color: #0e87a5;
   
 }
-section #mmsection #intro-text p{
+section #mmsection  p{
   width: 36em;
   top: 6.8em;
   left: 1.5em;
@@ -84,6 +84,16 @@ section #mmsection #intro-text p{
   line-height: 1.25em;
   position: relative;
   
+}
+section #mmsection #intro-text #l-btn{
+background-color: #63bed5;
+padding: 0.625em 1.25em;
+position: relative;
+top: 10em;
+left: 1.56em;
+color: #fff;
+text-decoration: none;
+
 }
 /*featured*/
 #Fbody h1{

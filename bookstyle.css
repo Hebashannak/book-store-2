@@ -25,6 +25,11 @@ section nav{
  z-index: 100;
 
 }
+section nav #line img{
+margin: 0.5em 0;
+cursor:pointer;
+width: 6.25em;
+}
 
 /*featured*/
 #Fbody h1{

@@ -4,6 +4,7 @@ body{
     background-color:#fff;
   
 }
+/*featured*/
 #Fbody h1{
     justify-content: center;
     align-items: center;
@@ -81,4 +82,10 @@ margin-bottom:0.937em ;
 
 #total_Featured #book button:hover {
   background-color: #e0f0ff; 
+}
+/*arrival*/
+.arrival_depot{
+  height: 100%;
+  width: 100%;
+
 }

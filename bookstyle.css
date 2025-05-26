@@ -259,3 +259,9 @@ margin-bottom:0.937em ;
   flex-wrap: wrap;
   gap: 30px;
 }
+
+#blog-section h2, #blog-section h3 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+}

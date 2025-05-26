@@ -275,7 +275,6 @@ margin-bottom:0.937em ;
    grid-gap:1.5625em 0;
 
 }
-
 .arrival_depot  .total_arrival .b_arrival{
  width: 11em;
     height: 20em;
@@ -284,9 +283,11 @@ margin-bottom:0.937em ;
     border: 0.125em solid;
     border-color: #aea5a5;
     margin: auto 0.5em ; 
+  
+    
 }
 .arrival_depot  .total_arrival .b_arrival:hover{
-   box-shadow: 0 0 0.33em rgb(32, 140, 129);
+   box-shadow: 0 0 0.33em rgb(32, 140, 129) ;
 }
 .arrival_depot  .total_arrival .b_arrival img{
   cursor: pointer;
@@ -297,10 +298,10 @@ margin-bottom:0.937em ;
 .arrival_depot  .total_arrival .b_arrival #star{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 0.5em 0;
-  color: rgb(32, 140, 129);
+  color: rgb(32, 140, 129) ;
 }
 .arrival_depot  .total_arrival .b_arrival button {
-  border: 2px solid rgb(32, 140, 129);
+  border: 2px solid rgb(32, 140, 129) ;
   padding: 8px 16px;      
   background-color: white; 
    margin-top: 10px;

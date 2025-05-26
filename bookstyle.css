@@ -147,39 +147,30 @@ section #mmsection #heder-ima{
 .mark:hover {
   transform: translateY(-0.3em);
 }
-/*
-.mark {
-  width: 16em;
-  height: 10em;
-  background: #fff;
-  padding: 0.5em;
-  border-radius: 0.5em;
-  box-shadow: 0 0 0.6em turquoise;
-  text-align: center;
-  transition: transform 0.3s;
-  margin: 1em 0.5em 0.5em;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;}
-
-.mark h2 {
-  padding: 0;
-  margin: 0;
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
 }
 
-.mark p {
-  margin: 0;
-  font-size: 0.95em;
-  color: #333;
+::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 10px;
 }
-.mark:hover {
-  transform: translateY(-0.3em);
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(32, 140, 129);
+  border-radius: 10px;
 }
-.mark i {
-  font-size: 3em;
-  color: turquoise;
-  margin-bottom: 0.1em;
-} */
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(32, 140, 129);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(32, 140, 129) #f0f0f0;
+}
+
 /*featured*/
 #Fbody h1{
     justify-content: center;
@@ -269,6 +260,7 @@ margin-bottom:0.937em ;
     align-items: center;
     display: flex;
     font-size: xx-large; 
+    margin-top: 4em;
 }
 .arrival_depot  .total_arrival{
  width: 96%;
@@ -311,8 +303,7 @@ margin-bottom:0.937em ;
 
 .arrival_depot  .total_arrival .b_arrival button:hover {
   background-color: #e0f0ff; 
- 
- 
+}
 * {
     margin: 0;
     padding: 0;

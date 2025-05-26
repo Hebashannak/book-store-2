@@ -172,3 +172,14 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+.site-footer .footer-info,
+.site-footer .links-group,
+.site-footer .footer-contacts,
+.site-footer .social-media,
+.site-footer .newsletter-box {
+  display: flex;
+  flex-direction: column;
+  width: 19%;
+  gap: 1em;
+  height: 30vh;
+}

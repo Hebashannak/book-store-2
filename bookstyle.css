@@ -275,3 +275,13 @@ margin-bottom:0.937em ;
   background-color: #ffffff;
   position: relative;
 }
+#blog-section .blog-entry:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+#blog-section img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

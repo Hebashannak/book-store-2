@@ -183,3 +183,13 @@
   gap: 1em;
   height: 30vh;
 }
+
+.site-footer h2 {
+  font-size: 1.25rem;
+}
+
+.site-footer .link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}

@@ -240,3 +240,10 @@
   cursor: pointer;
   transition: 0.3s;
 }
+
+.site-footer .newsletter-box button:hover {
+  background-color: #fff;
+  color: #089da1;
+  border: 1px solid #089da1;
+}
+

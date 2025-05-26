@@ -104,9 +104,17 @@ section #mmsection #heder-ima{
 #line-mark{
   width: 100%;
   height: auto;
-  margin: 2em  0;
+  margin: 2.1875em  0;
 }
-#line-mark
+#line-mark #mark{
+  text-align: center;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+   flex-direction: row;
+  justify-content: space-around;
+  
+}
 /*featured*/
 #Fbody h1{
     justify-content: center;

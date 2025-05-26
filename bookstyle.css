@@ -44,3 +44,16 @@ body{
 {
     box-shadow: 0 0 0.33em #0e87a5;
 }
+
+#Fbody #total_Featured #book h2{
+    margin: 12px;
+}
+#Fbody #total_Featured #book h5{
+    margin: 0.75em;
+    color: #0e87a5 ;
+}
+#Fbody #total_Featured #book p{
+font-weight: bold;
+margin: 12px;
+margin-bottom:0.937em ;
+}

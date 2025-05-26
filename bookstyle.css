@@ -220,3 +220,10 @@ margin-bottom:0.937em ;
   max-width: 1200px;
   margin: 0 auto;
 }
+.feedback-banner img {
+  width: 100%;
+  max-width: 1300px;
+  height: auto;
+  display: block;
+  border-radius: 0;
+}

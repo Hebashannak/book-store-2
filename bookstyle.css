@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     padding: 0;
@@ -136,4 +137,18 @@ margin-bottom:0.937em ;
 
 .arrival_depot  .total_arrival .b_arrival button:hover {
   background-color: #e0f0ff; 
+ 
+/* Testimonials */
+.testimonials {
+  padding: 60px 40px;
+  background-color: #fff;
+}
+
+.testimonials > .box-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 40px;
+ 
 }

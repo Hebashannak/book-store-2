@@ -12,32 +12,34 @@ section{
   background-size: cover;
   background-position: center;
   
+  
 }
 section nav{
   width: 100%;
  display: flex;
  align-items: center;
  justify-content: space-around;
- box-shadow: 0 0  0.625em #63bed5;
+ box-shadow: 0 0  0.4em #63bed5;
  background-color: #fff;
  position: fixed;
  left: 0;
  z-index: 100;
-
+ padding: 0 2em; 
 }
-section nav #line img{
+section nav  img{
 margin: 0.5em 0;
 cursor:pointer;
 width: 6.25em;
 }
-section nav  ul{
+section nav ul{
   list-style: none;
+  margin-left: 22em;
 }
-section nav   ul li{
+section nav  li{
   display:inline-block;
   padding:0  0.625em ;
 }
-section nav ul li a{
+section nav a{
   text-decoration: none;
   color: #000;
 }

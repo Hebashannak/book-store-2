@@ -335,3 +335,12 @@ margin-bottom:0.937em ;
   flex-direction: column;
   gap: 0.25rem;
 }
+.site-footer .link-list a {
+  text-decoration: none;
+  color: black;
+  font-size: 1em;
+}
+
+.site-footer .footer-info img {
+  width: 5em;
+}

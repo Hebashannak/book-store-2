@@ -67,3 +67,8 @@ margin-bottom:0.937em ;
   
   border-radius: 0.625em;
 }
+
+#total_Featured {
+  scrollbar-width: thin;
+  scrollbar-color: #63bed5 #11dedb18 ;
+}

@@ -95,3 +95,11 @@ margin-bottom:0.937em ;
     display: flex;
     font-size: xx-large; 
 }
+.arrival_depot  .total_arrival{
+ width: 96%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:repeat(5,1fr);
+   grid-gap:1.5625em 0;
+
+}

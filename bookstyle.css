@@ -116,3 +116,9 @@ margin-bottom:0.937em ;
 .arrival_depot  .total_arrival .b_arrival:hover{
    box-shadow: 0 0 0.33em #0e87a5;
 }
+.arrival_depot  .total_arrival .b_arrival img{
+  cursor: pointer;
+}
+.arrival_depot  .total_arrival .b_arrival:hover img{
+  transform: scale(1.1);
+}

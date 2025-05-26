@@ -39,14 +39,22 @@ section nav  li{
   display:inline-block;
   padding:0  0.625em ;
 }
-section nav a{
+section nav li  a{
   text-decoration: none;
   color: #000;
   font-style: normal;
   
 }
-section nav a:hover{
-
+section nav li  a:hover{
+color: #0e87a5;
+}
+section nav #nav-icons i{
+margin:  0 0.312em;
+font-size: 1.5em;
+}
+section nav #nav-icons i:hover{
+  color: #0e87a5;
+  cursor: pointer;
 }
 /*featured*/
 #Fbody h1{

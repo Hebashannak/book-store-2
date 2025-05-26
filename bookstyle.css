@@ -95,6 +95,12 @@ color: #fff;
 text-decoration: none;
 
 }
+section #mmsection #heder-ima{
+  position: relative;
+  width: 40em;
+  top:4em ;
+  left: 1.2em;
+}
 /*featured*/
 #Fbody h1{
     justify-content: center;

@@ -68,9 +68,13 @@ section #mmsection  #heder-ima{
 }
 section #mmsection #intro-text h1{
   position: relative;
-  font-size: 3.4375em;
+  font-size: 3em;
   top: 5em;
   left: 1.5625em;
+}
+section #mmsection #intro-text h1 span{
+  color: #0e87a5;
+  
 }
 /*featured*/
 #Fbody h1{
